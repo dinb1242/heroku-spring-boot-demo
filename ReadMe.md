@@ -8,7 +8,7 @@ A simple spring boot application to deploy using heroku.
 
 There is only one API endpoint `/demo` in this project to check whether the server deployed by heroku operates properly or not.
 
-### Brief Compositions
+### :mag: Brief Compositions
 - **DemoController.java**: A simple controller that has only one GET method API endpoint `/demo`
 - **application.yml**: it has server port placeholder so that heroku can inject a random port, and has a brief placeholder named `test.str` and its key is `test-string`, which will be used in `/demo` GET method.
 - **system.properties**: used to specify what java version will be used on heroku build.
