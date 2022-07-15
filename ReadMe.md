@@ -17,4 +17,4 @@ There is only one API endpoint `/demo` in this project to check whether the serv
 ### 🖇️ Blog
 This project is created to explain how to deploy using heroku, and its more detail explanation is on my blog below.
 
-[Click Here!](https://mad8e.tistory.com/entry/Spring-Boot-Maven-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Heroku-%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+### [Click Here!](https://mad8e.tistory.com/entry/Spring-Boot-Maven-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Heroku-%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
